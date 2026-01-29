@@ -11,13 +11,13 @@ export const experiences: Experience[] = [
   {
   role: "Full Stack Developer",
   company: "Langara College — Semina (Capstone Project)",
-  date: "2026",
+  date: "In progress",
   points: [
-    "Built a cross-platform mobile application using React Native (Expo) with structured authentication and routing flow.",
-    "Developed a scalable Node.js + Express backend API with REST endpoints, health monitoring, and cloud-ready architecture.",
-    "IoT-enabled urban gardening by integrating environmental sensor workflows (soil moisture, temperature, light/UV) for real-time plant monitoring.",
+    "Building a cross-platform mobile application using React Native (Expo) with structured authentication and routing flow.",
+    "Using a scalable Node.js + Express backend API with REST endpoints, health monitoring, and cloud-ready architecture.",
+    "Enabling an IoT urban gardening by integrating environmental sensor workflows (soil moisture, temperature, light/UV) for real-time plant monitoring.",
     "Planned AI-assisted plant health guidance features, including camera-based analysis and smart recommendations based on sensor + climate data.",
-    "Implemented modern Agile development practices with GitHub branching, pull requests, and sprint-based collaboration in a multi-member capstone team."
+  
   ],
 },
   
