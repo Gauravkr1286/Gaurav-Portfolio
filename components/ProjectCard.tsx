@@ -69,6 +69,16 @@ export default function ProjectCard({ project }: { project: Project }) {
               YouTube
             </a>
           )}
+
+           {project.figma && (
+            <a
+              href={project.figma}
+              target="_blank"
+              className="rounded-lg bg-white/10 border border-white/15 px-3 py-2 hover:bg-white/15 transition"
+            >
+              Figma
+            </a>
+          )}
         </div>
       </div>
     </div>
